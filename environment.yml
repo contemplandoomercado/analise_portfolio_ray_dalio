@@ -1,0 +1,7 @@
+name: market_dashboard
+channels:
+- conda-forge
+dependencies:
+- pandas=2.2.2=py312h72972c8_1
+- seaborn=0.13.2=hd8ed1ab_2
+- seaborn-base=0.13.2=pyhd8ed1ab_2
